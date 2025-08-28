@@ -1,6 +1,7 @@
 # Projeto---Fraude-em-Cartoes
 Projeto do Curso de Ciência de Dados da EBAC
 
+## Introdução
 **Cliente:** Banco Global Trust  
 **Objetivo:** Detectar fraudes em transações de cartão de crédito, minimizando prejuízos e garantindo a segurança dos clientes.
 
