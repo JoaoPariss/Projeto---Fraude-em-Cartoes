@@ -29,9 +29,9 @@ Desenvolver um modelo preditivo capaz de identificar fraudes de forma eficaz, **
 
 ## Estratégia de Modelagem
 
-A ideia é testar vários modelos **com e sem balanceamento**. O modelo com a **melhor performance** será escolhido para uma pesquisa mais ampla de **hiperparâmetros**.
+A estratégia era testar vários modelos **com e sem balanceamento**. O modelo com a **melhor performance** seria escolhido para uma pesquisa mais ampla de **hiperparâmetros**.
 
-### Modelos a serem testados:
+### Modelos testados:
 - **Lineares:** Regressão Logística  
 - **Baseados em árvores:** Random Forest e XGBoost  
 - **Baseados em margens e hiperplanos:** SVM
@@ -45,7 +45,7 @@ A ideia é testar vários modelos **com e sem balanceamento**. O modelo com a **
 **Conclusão:**  
 O XGBoost foi escolhido por combinar **alto recall para fraudes** e **eficiência computacional**. Próxima etapa: otimização de hiperparâmetros.
 
-## Ajuste nos Hiperparâmetros
+## Otimização de Hiperparâmetros
 
 - **Método:** GridSearch  
 - **Melhores parâmetros encontrados:**  
