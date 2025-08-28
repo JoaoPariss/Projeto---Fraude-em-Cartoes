@@ -14,3 +14,6 @@ Projeto do Curso de Ciência de Dados da EBAC
 **Demanda do Cliente:**  
 Desenvolver um modelo preditivo capaz de identificar fraudes de forma eficaz, **maximizando a acurácia** e **minimizando falsos negativos**.
 
+## Análise dos Dados
+
+
